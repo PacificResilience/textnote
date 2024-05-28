@@ -1,1 +1,1 @@
-A minimalistic open source web-based application to take text notes. 
+A minimalistic web-based application to take text notes. 
